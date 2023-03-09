@@ -1,0 +1,5 @@
+'Data/*.csv' filter=lfs diff=lfs merge=lfs -text
+'*.csv' filter=lfs diff=lfs merge=lfs -text
+'BRFSS_preprocessed.csv' filter=lfs diff=lfs merge=lfs -text
+'*BRFSS_preprocessed.csv' filter=lfs diff=lfs merge=lfs -text
+'Data/BRFSS_preprocessed.csv' filter=lfs diff=lfs merge=lfs -text
