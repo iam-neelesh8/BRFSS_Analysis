@@ -1,4 +1,4 @@
-                                                #Behavioral Risk Factor Surveillance System (BRFSS)
+Behavioral Risk Factor Surveillance System (BRFSS)
 
 Introduction:
 
